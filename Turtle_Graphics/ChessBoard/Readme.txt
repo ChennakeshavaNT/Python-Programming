@@ -8,7 +8,8 @@ Steps to execute :
     1. open terminal
     2. navigate to the respective folder
     3. use the following command 
-           Python3 Chessboard.py
+    
+           Python3 filename.py
     
     Note: this program doesnt take any input 
     
