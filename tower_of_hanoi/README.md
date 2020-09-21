@@ -14,10 +14,10 @@ Any Python executable IDE
 
 ## Steps to Execute :
 
-		1. Open terminal 
-		2. Navigate to the respective folder 
-		3. use the following command 
-	**Python3 filename.py (no.of Discs) (no. of towers)**
+	1. Open terminal 
+	2. Navigate to the respective folder 
+	3. use the following command 
+**Python3 filename.py (no.of Discs) (no. of towers)**
 
 ## Sample input:
 
@@ -30,7 +30,7 @@ Any Python executable IDE
 
 ## Sample output:
 
-		**['D1', 'D2', 'D3']
+		['D1', 'D2', 'D3']
 		[]
 		[]
 		[]
@@ -60,6 +60,6 @@ Any Python executable IDE
 		[]
 		[]
 
-		total moves = 5**
+		total moves = 5
 
 
